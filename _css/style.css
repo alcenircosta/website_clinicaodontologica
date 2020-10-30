@@ -132,6 +132,9 @@ div.telefone-header span{
 	border-radius: 25px;
 	padding-left: 15px;
 }
+.content-header .one form input[type=email]:hover{
+	border: 2px solid black;
+}
 .content-header .one form input[type=email]:focus{
 	outline: 0;
 }
@@ -408,7 +411,7 @@ section.contato input[type=submit]{
 	border:0;
 	color: white;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 24px;
 }
 section.contato h2{
 	text-align: center;
